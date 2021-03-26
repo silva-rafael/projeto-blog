@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #fff;
+}
+
+.fundo {
+	background-image: url('../img/fundo.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+.fild {
+	height: 100vh;
+	width: 100%;
+	background-color: rgba(0,64,66,0.8);
+}
+
+.titulo {
+	margin: 30px 0px;
+}
